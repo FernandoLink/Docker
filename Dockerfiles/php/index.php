@@ -1,0 +1,3 @@
+<?php
+
+echo "OlÃ¡ sou uma aplicaÃÃo PHP";
